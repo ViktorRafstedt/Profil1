@@ -1,0 +1,7 @@
+USER: 1
+
+name: Johan
+
+lastname: Birgersson
+
+password: A fdsaf                    fstedt@hotmail.com                    

@@ -13,6 +13,7 @@ public class ProfilView{
     private JButton updateEmail;
     private JButton updatePassword;
     private JPanel profilePanel;
+    public JPanel fantaochrose;
 
     public ProfilView() throws IOException {
 
